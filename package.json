@@ -1,0 +1,45 @@
+{
+  "name": "@onglx/deploy-cli",
+  "version": "0.1.17",
+  "description": "Deploy AI APIs to AWS in 30 seconds with 85% cost savings",
+  "main": "index.js",
+  "bin": {
+    "onglx-deploy": "./install.js"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "keywords": [
+    "aws",
+    "deployment", 
+    "cli",
+    "ai",
+    "serverless",
+    "infrastructure",
+    "cost-optimization",
+    "onglx"
+  ],
+  "author": "OnglX Team <team@onglx.dev>",
+  "license": "MIT",
+  "homepage": "https://onglx.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onglx/deploy-cli-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onglx/deploy/issues"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "bin/**",
+    "install.js",
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
