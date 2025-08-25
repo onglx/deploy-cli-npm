@@ -19,9 +19,9 @@
     "cost-optimization",
     "onglx"
   ],
-  "author": "OnglX Team <team@onglx.dev>",
+  "author": "OnglX Team <team@onglx.com>",
   "license": "MIT",
-  "homepage": "https://onglx.dev",
+  "homepage": "https://onglx.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/onglx/deploy-cli-npm.git"

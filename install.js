@@ -62,7 +62,7 @@ function installBinary() {
     
     console.log(`✅ OnglX Deploy CLI installed successfully!`);
     console.log(`\nRun 'onglx-deploy --help' to get started.`);
-    console.log(`Documentation: https://docs.onglx.dev`);
+    console.log(`Documentation: https://docs.onglx.com`);
     
   } catch (error) {
     console.error('Failed to install binary:', error.message);

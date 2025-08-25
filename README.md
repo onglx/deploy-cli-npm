@@ -89,16 +89,16 @@ If Windows Defender flags the binary:
 
 ## 📚 Documentation
 
-- **Documentation**: https://docs.onglx.dev
+- **Documentation**: https://docs.onglx.com
 - **Examples**: https://github.com/onglx/examples
-- **Support**: support@onglx.dev
+- **Support**: support@onglx.com
 
 ## 🐛 Issues & Support
 
 Found a bug or need help?
 
 - **Issues**: https://github.com/onglx/deploy/issues
-- **Email**: support@onglx.dev
+- **Email**: support@onglx.com
 - **Discord**: https://discord.gg/onglx
 
 ## 📄 License
